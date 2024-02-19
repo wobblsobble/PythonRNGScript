@@ -1,4 +1,3 @@
-#code by wobblsobble
 import math
 import random
 from decimal import *
